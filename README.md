@@ -1,4 +1,4 @@
-### Android Bluetooth Chat App
+### Android Bluetooth Hardware App
 
 ![sample-image](/Image.jpg)"# Carvibe-Hardware" 
 "# Carvibe-Hardware" 
